@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-message-dash",
+  "name": "bitcore-message-saga",
   "main": "./bitcore-message.min.js",
   "version": "1.0.4",
-  "homepage": "https://github.com/dashpay/bitcore-message-dash",
+  "homepage": "https://github.com/sagacrypto/bitcore-message-saga",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "SagaCoin Message Verification and Signing for Bitcore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "sagacoin",
     "bitcore",
-    "btc",
+    "saga",
     "satoshi",
     "message",
     "signing"
